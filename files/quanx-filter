@@ -9,3 +9,9 @@ DOMAIN-SUFFIX,e-hentai.org,proxy
 DOMAIN-SUFFIX,exhentai.org,proxy
 DOMAIN-SUFFIX,ehgt.org,proxy
 DOMAIN-SUFFIX,hath.network,proxy
+
+#sci-hub
+DOMAIN-KEYWORD,sci-hub,proxy
+DOMAIN-SUFFIX,sci-hub.se,proxy
+DOMAIN-SUFFIX,sci-hub.st,proxy
+DOMAIN-SUFFIX,sci-hub.ru,proxy
