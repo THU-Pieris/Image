@@ -1,0 +1,2 @@
+# bilibili
+DOMAIN-SUFFIX,cm.bilibili.com,direct
