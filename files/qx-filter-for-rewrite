@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,spclient.wg.spotify.com,PROXY
-DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,youtubei.googleapis.com,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
+
+# disable Youtube proxy
+# DOMAIN-SUFFIX,googlevideo.com,PROXY
+# DOMAIN-SUFFIX,youtubei.googleapis.com,PROXY
+# DOMAIN-SUFFIX,youtube.com,PROXY
